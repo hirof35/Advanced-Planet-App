@@ -1,6 +1,7 @@
 # 太陽系惑星ビジュアルガイド (Solar System Planet Guide)
 
 Pythonの`tkinter`と`Pillow`を使用して作成した、太陽系の8つの惑星（水星〜海王星）の基本情報とビジュアルを確認できるデスクトップアプリケーションです。
+<img width="996" height="726" alt="スクリーンショット 2026-05-31 110708" src="https://github.com/user-attachments/assets/f092b5a2-8b78-4dce-9778-ef5b325904e1" />
 
 ## 🚀 特徴
 - **直感的なUI**: 左側の惑星ボタンをクリックするだけで、右側の情報パネルがスムーズに切り替わります。
